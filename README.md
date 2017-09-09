@@ -2,14 +2,14 @@
 A curated list of bookmarks, packages, tutorials, videos and other cool resources from and about PyroCMS
 
 ## Themes
-[Blog theme by Tanel Tammik](https://keevitaja.com/posts/a-slick-personal-blog-theme-for-pyrocms)
+[Blog theme](https://keevitaja.com/posts/a-slick-personal-blog-theme-for-pyrocms) - by Tanel Tammik
 
 ## Servers
 * [Digital Ocean](https://www.digitalocean.com/)
 * [Vultr](https://www.vultr.com/)
 
 ## Backups
-* [Backupsheep - schedule and automate snapshots for your Digital Ocean, Vultr or Linode hosted apps](https://backupsheep.com)
+* [Backupsheep](https://backupsheep.com) - - schedule and automate snapshots for your Digital Ocean, Vultr or Linode hosted apps
 
 ## Server management
 * [Server Pilot](https://serverpilot.io/)
