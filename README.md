@@ -11,6 +11,7 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 ## Server management
 * [Server Pilot](https://serverpilot.io/)
 * [Install Let's Encrypt SSL on server pilot app](https://github.com/lesaff/serverpilot-letsencrypt) 
+* [Doc / Screen cast of the above script](https://sridhar.blog/install-ssl-certificate-serverpilot-managed-hosting-account/)
 
 ## Other awesome links
 * [Awsome PHP](https://github.com/ziadoz/awesome-php)  
