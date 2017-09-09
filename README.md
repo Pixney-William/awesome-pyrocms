@@ -9,7 +9,8 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [Vultr](https://www.vultr.com/)
 
 ## Backups
-* [Backupsheep](https://backupsheep.com) - - schedule and automate snapshots for your Digital Ocean, Vultr or Linode hosted apps
+* [Backupsheep](https://backupsheep.com) - schedule and automate snapshots for your Digital Ocean, Vultr or Linode hosted apps
+* [Snapshot maker](http://dosnapshot.merqlove.ru/) - A command-line snapshot maker for your DigitalOcean droplets.
 
 ## Server management
 * [Server Pilot](https://serverpilot.io/)
