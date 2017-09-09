@@ -8,6 +8,9 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [Digital Ocean](https://www.digitalocean.com/)
 * [Vultr](https://www.vultr.com/)
 
+## Backups
+* [Backupsheep - schedule and automate snapshots for your Digital Ocean, Vultr or Linode hosted apps](https://backupsheep.com)
+
 ## Server management
 * [Server Pilot](https://serverpilot.io/)
 * [Install Let's Encrypt SSL on server pilot app](https://github.com/lesaff/serverpilot-letsencrypt) 
