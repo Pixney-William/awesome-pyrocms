@@ -1,6 +1,9 @@
 # Awesome PyroCMS
 A curated list of bookmarks, packages, tutorials, videos and other cool resources from and about PyroCMS
 
+## Open source addons / modules / extensions
+* [Translations module](https://github.com/keevitaja/translations-module) by Keevitaja
+
 ## Themes
 [Blog theme](https://keevitaja.com/posts/a-slick-personal-blog-theme-for-pyrocms) - by Tanel Tammik
 
