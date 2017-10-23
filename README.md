@@ -3,6 +3,7 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 
 ## Open source addons / modules / extensions
 * [Translations module](https://github.com/keevitaja/translations-module) by Keevitaja
+* [Currrency Field Type](https://github.com/redtallyau/currency-field_type) by CraigBerry
 
 ## Themes
 [Blog theme](https://keevitaja.com/posts/a-slick-personal-blog-theme-for-pyrocms) - by Tanel Tammik
