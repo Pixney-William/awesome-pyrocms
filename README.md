@@ -8,6 +8,7 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 
 ## Themes
 [Blog theme](https://keevitaja.com/posts/a-slick-personal-blog-theme-for-pyrocms) - by Tanel Tammik
+[Hjortron](https://github.com/Pixney/hjortron-theme) - Admin theme by Pixney.
 
 ## Cheat Sheets
 * [Williams Pyrocms Cheat Sheet](https://github.com/designbywilliam/pyrocms-cheatsheet)
